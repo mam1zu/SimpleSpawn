@@ -1,0 +1,8 @@
+name: SimpleSpawn
+version: ${project.version}
+main: com.github.mamizu0312.simplespawn.SimpleSpawn
+commands:
+  setspawn:
+    description: setspawn command.
+  spawn:
+    description: main command.
